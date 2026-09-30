@@ -1,0 +1,9 @@
+[Client]
+   ↓
+[Azure Front Door + WAF]
+   ↓
+[API Management]
+   ↓
+[App Service / AKS]
+   ↓
+[Azure Database for PostgreSQL]
